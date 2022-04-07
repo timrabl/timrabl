@@ -6,7 +6,7 @@ Hi, my name is [**Tim Rabl**](https://www.timrabl.de) !
 I'm a SysAdmin / DevOps Engineer from Germany currently working at [komro GmbH](https://www.komro.net)
 
 - 🔭 I’m currently working on everything that comes in mind !
-- 🌱 I’m currently learning golang !
+- 🌱 I’m currently learning golang and NextJS !
 - 💬 Ask me about everything you want !
 - 📫 How to reach me: info@timrabl.de
 
